@@ -1240,11 +1240,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   spriteList:
   - spriteName: duke
-    sprite: {fileID: 21300000, guid: 544e1db2681598942a60314e4926aca6, type: 3}
+    sprite: {fileID: 21300000, guid: 024e42377916616419e4f99db5f149a2, type: 3}
   - spriteName: commander
-    sprite: {fileID: 21300000, guid: 93aacdde7db4bee42941ca07be9fffc3, type: 3}
-  - spriteName: 
-    sprite: {fileID: 0}
+    sprite: {fileID: 21300000, guid: 39b1f0c5879670c4598782a104a9a6c1, type: 3}
+  - spriteName: game
+    sprite: {fileID: 21300000, guid: 1c7c60e76fa88f74b811e1057283b9e3, type: 3}
 --- !u!4 &1004041870
 Transform:
   m_ObjectHideFlags: 0
@@ -1577,6 +1577,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 0
 --- !u!223 &1070290797
 Canvas:
   m_ObjectHideFlags: 0
@@ -2110,7 +2111,7 @@ MonoBehaviour:
   - textName: duke
     text: "\uBE48\uC13C\uD2B8 \uACF5\uC791"
   - textName: commander
-    text: "\uC70C\uB9AC\uC5C4 \uC7A5"
+    text: "\uC70C\uB9AC\uC5C4 \uC7A5\uAD70"
   - textName: 
     text: 
   - textName: 

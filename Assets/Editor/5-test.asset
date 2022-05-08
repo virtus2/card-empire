@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3df669b4ba1bc4c4981cbe00680f19b3, type: 3}
+  m_Name: 5-test
+  m_EditorClassIdentifier: 
+  id: 5
+  cardName: test
+  teller: test
+  lockturn: 0
+  weight: 5
+  condition: 
+  nextCardNameYes: 
+  nextCardNameNo: 
+  yesCondition: 
+  noCondition: 
+  textKor: "\uBB50\uD558\uC274?"
+  answerYesKor: "\uC544\uBB34\uAC70\uB098"
+  answerNoKor: "\uC548\uD560\uB798"

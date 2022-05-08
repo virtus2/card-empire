@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 4
   cardName: tutorial_3
-  teller: 
+  teller: commander
   lockturn: 0
   weight: 0
   isEvent: 1
