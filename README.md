@@ -14,7 +14,6 @@
 1. 프로젝트를 저장
 2. 유니티로 Assets\Scene\GameScene.scene 실행
 3. Google Sheets to Unity 에셋 Import
-4. 플레이
 
 ### Screenshots
 ![1](Screenshots/테스트2.gif)  
